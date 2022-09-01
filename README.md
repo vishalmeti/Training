@@ -5,3 +5,7 @@
 ``` Java
 System.out.println("Hello world!!");
 ```
+```python
+names=["A","B","C"]
+print("Length: ",len(names))
+```
